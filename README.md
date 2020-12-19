@@ -25,3 +25,5 @@
 [HW 12](https://nbviewer.jupyter.org/github/inespancorbo/Statistical-Computing/blob/master/HW12/HW12.ipynb)
 
 [HW 13](https://github.com/inespancorbo/Statistical-Computing/blob/master/HW13/HW13.ipynb)
+
+[HW 14](https://nbviewer.jupyter.org/github/inespancorbo/Statistical-Computing/blob/master/HW14/HW14.ipynb)
