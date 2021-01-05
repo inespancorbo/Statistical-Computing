@@ -16,7 +16,7 @@
 
 [HW 8](https://nbviewer.jupyter.org/github/inespancorbo/Statistical-Computing/blob/master/HW8/HW8.ipynb)
 
-[HW 9](https://github.com/inespancorbo/Statistical-Computing/blob/master/HW9/Ines_Pancorbo_HW9.pdf)
+[HW 9](https://nbviewer.jupyter.org/github/inespancorbo/Statistical-Computing/blob/master/HW9/HW9.ipynb)
 
 [HW 10](https://github.com/inespancorbo/Statistical-Computing/blob/master/HW10/Ines_Pancorbo_HW10.pdf)
 
